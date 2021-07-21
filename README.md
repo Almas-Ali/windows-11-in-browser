@@ -15,4 +15,4 @@ This project is updated by [Md. Almas Ali][1]
 
 
 [0]: <https://codewithharry.com> "HarryBhai Website"
-[1]: <https://liketr.ee/almasali> "Md. Almas Ali Linktree"
+[1]: <https://linktr.ee/almasali> "Md. Almas Ali Linktree"
